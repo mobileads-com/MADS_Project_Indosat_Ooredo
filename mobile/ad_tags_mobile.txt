@@ -1,0 +1,38 @@
+<!--
+Rich Media Ad Tag 
+Platform: Mobilewalla
+RM Type: MRAID
+-->
+<script type='text/javascript'>
+var rma ={
+'campaignId':'9b553bc79cb3e85c901471021e4aa695',
+'secure':'true',
+'cb':'${mw_bid_id}',
+'trackExp':'__MW_CLICK_URL__',
+'customize':{'custTracker':['https://track.richmediaads.com/a/analytic.htm?uid=0&isNew={{isNew}}&referredUrl={{referredUrl}}&rmaId={{rmaId}}&domainId=0&pageLoadId={{pageLoadId}}&userId={{userId}}&pubUserId=0&campaignId={{campaignId}}&browser={{browser}}&os={{os}}&domain={{domain}}&callback=trackSuccess&callback=trackSuccess&type={{type}}&tt={{tt}}&value={{value}}','https://trk.mwstats.net/stats/interaction.png?ii={{type}}&id=${mw_bid_id}&li=${mw_lineitem_id}&t=${mw_timestamp}&cr=${mw_creative_id}', '__MW_CLICK_URL__']},
+'customId':'${mw_exchange_id}',
+'tags':{'dsp':'other'}
+};
+</script>
+<img src='https://www.cdn.serving1.net/t?i=9b553bc79cb3e85c901471021e4aa695&cb=${mw_bid_id}&customId=${mw_exchange_id}&dsp=other&customId=noblock' width='1px' height='1px' style='display:none' onerror="this.src='https://track.richmediaads.com/t?i=9b553bc79cb3e85c901471021e4aa695&cb=${mw_bid_id}&customId=${mw_exchange_id}&dsp=other&customId=adblock'" /><script src='mraid.js'></script><script type='text/javascript' src='https://cdn.serving1.net/general.js'></script>
+<img src="__MW_IMPRESSION_URL__" width="0" height="0" style="display:none" />
+
+
+<!--
+Rich Media Ad Tag 
+Platform: Mobilewalla
+RM Type: NON-MRAID
+-->
+<script type='text/javascript'>
+var rma ={
+'campaignId':'681c38b1182a8efea99e513eb5719645',
+'secure':'true',
+'cb':'${mw_bid_id}',
+'trackExp':'__MW_CLICK_URL__',
+'customize':{'custTracker':['https://track.richmediaads.com/a/analytic.htm?uid=0&isNew={{isNew}}&referredUrl={{referredUrl}}&rmaId={{rmaId}}&domainId=0&pageLoadId={{pageLoadId}}&userId={{userId}}&pubUserId=0&campaignId={{campaignId}}&browser={{browser}}&os={{os}}&domain={{domain}}&callback=trackSuccess&callback=trackSuccess&type={{type}}&tt={{tt}}&value={{value}}','https://trk.mwstats.net/stats/interaction.png?ii={{type}}&id=${mw_bid_id}&li=${mw_lineitem_id}&t=${mw_timestamp}&cr=${mw_creative_id}', '__MW_CLICK_URL__']},
+'customId':'${mw_exchange_id}',
+'tags':{'dsp':'other'}
+};
+</script>
+<img src='https://www.cdn.serving1.net/t?i=681c38b1182a8efea99e513eb5719645&cb=${mw_bid_id}&customId=${mw_exchange_id}&dsp=other&customId=noblock' width='1px' height='1px' style='display:none' onerror="this.src='https://track.richmediaads.com/t?i=681c38b1182a8efea99e513eb5719645&cb=${mw_bid_id}&customId=${mw_exchange_id}&dsp=other&customId=adblock'" /><script type='text/javascript' src='https://cdn.serving1.net/general.js'></script>
+<img src="__MW_IMPRESSION_URL__" width="0" height="0" style="display:none" />
