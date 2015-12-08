@@ -124,7 +124,7 @@ var indosat = function(){
 	this.sdk = new mads();
 	this.sdk.loadCss(this.sdk.path + 'css/indosat.css');
 	this.sdk.loadJs('https://code.jquery.com/jquery-1.11.3.min.js', function(){
-		_this.sdk.loadJs('http://cdn.richmediaads.com/nj.library.js')
+		_this.sdk.loadJs('https://cdn.richmediaads.com/nj.library.js')
 		_this.sdk.loadJs(_this.sdk.path + 'js/ninjoe.ytComponent.js');
 	});
 	this.parent = document.querySelector('#rma-widget');
