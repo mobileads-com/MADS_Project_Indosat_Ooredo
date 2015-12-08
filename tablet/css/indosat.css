@@ -28,7 +28,7 @@ p.first-label {
 	font-family: 'FUTURASTD-MD';
 	position: absolute;
 	display: block;
-	margin-left: 160px;
+	margin-left: 166px;
 	margin-top: -363px;
 	font-size: 28px;
 	
@@ -47,7 +47,7 @@ p.first-label {
 
 .yt_frame.vid{
 	background: url('../img/video.png') no-repeat;
-	background-size: contain;
+	background-size: cover;
 	-webkit-animation: fadeIn 5s;
 	animation: fadeIn 5s;
 }
@@ -103,7 +103,7 @@ p.first-label {
 .btn-cta {
 	position: absolute;
 	width: 332px;
-	height: 82px;
+	height: 85px;
 	top: 766px;
 	left: 203px;
 	border-radius: 8px;
